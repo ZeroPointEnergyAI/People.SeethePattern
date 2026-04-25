@@ -6,3 +6,4 @@
 - [Why Is Magnetism the Exception?](https://youtu.be/h9U8xrhuN-k)
 - [The Force That Physics Erased: Ampère’s Forgotten Law](https://youtu.be/YHykWjtVdNM)
 - [Quantum Electrodynamics is rotten at the core](https://youtu.be/xaC_aKqjCXU)
+- [Lorentz's Ether Unveiled: The Legacy And Controversies Of Einstein's Rival](https://youtu.be/iqAvgHJa7Yw)
