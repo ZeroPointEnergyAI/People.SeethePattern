@@ -7,3 +7,4 @@
 - [The Force That Physics Erased: Ampère’s Forgotten Law](https://youtu.be/YHykWjtVdNM)
 - [Quantum Electrodynamics is rotten at the core](https://youtu.be/xaC_aKqjCXU)
 - [Lorentz's Ether Unveiled: The Legacy And Controversies Of Einstein's Rival](https://youtu.be/iqAvgHJa7Yw)
+- [Casimir Effect - What causes this force?](https://youtu.be/OgJj49ws478)
