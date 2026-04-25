@@ -4,3 +4,4 @@
 - [The Overlooked Result in the ‘Time Reversal’ Experiment](https://youtu.be/6eGZsvBCmuk)
 - [Where Did Magnetic Action and Reaction Go?](https://youtu.be/kw-kPE7FHPc)
 - [Why Is Magnetism the Exception?](https://youtu.be/h9U8xrhuN-k)
+- [The Force That Physics Erased: Ampère’s Forgotten Law](https://youtu.be/YHykWjtVdNM)
