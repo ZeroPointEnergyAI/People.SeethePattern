@@ -5,3 +5,4 @@
 - [Where Did Magnetic Action and Reaction Go?](https://youtu.be/kw-kPE7FHPc)
 - [Why Is Magnetism the Exception?](https://youtu.be/h9U8xrhuN-k)
 - [The Force That Physics Erased: Ampère’s Forgotten Law](https://youtu.be/YHykWjtVdNM)
+- [Quantum Electrodynamics is rotten at the core](https://youtu.be/xaC_aKqjCXU)
